@@ -1,0 +1,1 @@
+- Champ de vue et point mesuré
